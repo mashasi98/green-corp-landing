@@ -1,2 +1,2 @@
-# reen-corp-landing
+# green-corp-landing
 1st html and css
